@@ -8,7 +8,7 @@ Scripts for New Hired Employees
 - Start Focus App and Put SMART STAR
 
   - 5 Ws
-  - 5 why
+  - 5 why<br>
 [Essential Training Guide](https://reveltek.com/files/training-manual.pdf)
 - Also Put SMART STAR in group Chat (only for new hires) and train them how to do.
 
